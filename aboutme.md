@@ -21,6 +21,6 @@ Regarding lectures from my bachelor's programme, I am mostly interested in:<br>
 
 
 
-Don't forget to treat yourself and drink your favourite drink! ![Strawberry milk](/assets/images/resized_strawberry_2.png =40x40)<img src="https://cliply.co/clip/animated-sparkles/" width="40" height="40">
+Don't forget to treat yourself and drink your favourite drink! ![Strawberry milk](/assets/images/resized_strawberry_2.png =40x40)<img src="/assets/images/sparkle.gif" width="40" height="40"/>
 
 
