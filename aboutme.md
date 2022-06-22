@@ -2,14 +2,13 @@
 permalink: /aboutme.html
 ---
 
+## Who am I?<br>
 
-## Who am I?<br><br>
-
-My name is Ishwarya and I am 24 years old.<br>As mentioned before, I am currently studying Computational Linguistics 💻 at University of Zürich. I am in my first year of my Bachelor Degree.<br>
+My name is Ishwarya and I am 24 years old.<br>As mentioned before, I am currently studying Computational Linguistics 💻 at University of Zürich.<br>I am in my first year of my Bachelor degree.<br>
 
 I enjoy these things:<br>
 
-- 🎨 I enjoy drawing
+- 🎨 drawing
 - 🥳 attending concerts
 - 🎵 music
 - 🎮 playing video games
@@ -22,6 +21,6 @@ Regarding lectures from my bachelor's programme, I am mostly interested in:<br>
 
 
 
-Don't forget to treat yourself and drink your favourite drink! ![Strawberry milk](/assets/images/resized_strawberry_2.png)<img src="https://cliply.co/clip/animated-sparkles/" width="40" height="40"/>
+Don't forget to treat yourself and drink your favourite drink! ![Strawberry milk](/assets/images/resized_strawberry_2.png =40x40)<img src="https://cliply.co/clip/animated-sparkles/" width="40" height="40">
 
 
