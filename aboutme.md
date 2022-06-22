@@ -5,7 +5,7 @@ permalink: /aboutme/
 
 ## Who am I?<br><br>
 
-My name is Ishwarya and I am 24 years old.<br>As mentioned before, I am currently studying Computational linguistics 💻 at University of Zürich. I am in my first year of my Bachelor Degree.<br>
+My name is Ishwarya and I am 24 years old.<br>As mentioned before, I am currently studying Computational Linguistics 💻 at University of Zürich. I am in my first year of my Bachelor Degree.<br>
 
 I enjoy these things:<br>
 
@@ -19,8 +19,6 @@ Regarding lectures from my bachelor's programme, I am mostly interested in:<br>
 
 - 🗣️🎙️ Phonetics, which is the study of speech sounds.<br>
 <br>
-
-
 
 
 
